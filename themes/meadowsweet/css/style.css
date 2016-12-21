@@ -1,0 +1,83 @@
+/**
+ * Place your custom styles here.
+ */
+.region-header .banner-type-color {
+  padding: 5em 0; }
+.region-header .banner-type-image {
+  min-height: 80vh;
+  min-height: calc(100vh - 80px); }
+  .region-header .banner-type-image > .container {
+    position: absolute;
+    bottom: 80px;
+    left: 0;
+    right: 0;
+    z-index: 3; }
+
+.region-header .banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  text-shadow: 0 0 5px black; }
+
+.region-header .banner .subtitle {
+  font-size: 1.5em; }
+
+.region-header .banner .byline {
+  font-style: italic;
+  opacity: .75; }
+
+.field--name-field-paragraph-elements .field--item .paragraph--type--heading .field--name-field-heading {
+  width: 100%;
+  max-width: 20em;
+  margin-left: auto;
+  margin-right: auto; }
+
+.field--name-field-paragraph-elements .field--item .display-mode-center .container .field {
+  width: 100%;
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto; }
+.field--name-field-paragraph-elements .field--item .display-mode-right {
+  float: right;
+  width: 45%; }
+  .field--name-field-paragraph-elements .field--item .display-mode-right .container {
+    width: 100%;
+    max-width: 25em;
+    float: left; }
+.field--name-field-paragraph-elements .field--item .display-mode-left {
+  float: left;
+  width: 45%; }
+  .field--name-field-paragraph-elements .field--item .display-mode-left .container {
+    width: 100%;
+    max-width: 25em;
+    float: right; }
+.field--name-field-paragraph-elements .field--item .display-mode-full {
+  clear: both;
+  width: 100%; }
+  .field--name-field-paragraph-elements .field--item .display-mode-full img {
+    margin: 0 auto; }
+
+.field--name-field-item .field--item .paragraph--type--media > .field--name-field-text p {
+  font-style: italic;
+  font-size: .8em;
+  line-height: .8em;
+  margin: .5em; }
+
+.field--name-field-paragraph-elements .field--item .paragraph--type--breakout {
+  padding: 3em 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white; }
+  .field--name-field-paragraph-elements .field--item .paragraph--type--breakout:after {
+    content: "";
+    clear: both;
+    display: table; }
+
+.paragraph--view-mode--preview {
+  border-left: 5px solid #aaa;
+  clear: both;
+  padding-left: 5px; }
+
+/*# sourceMappingURL=style.css.map */

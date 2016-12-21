@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,2EAAC;EACC,MAAM,EAAE,KAAK;AAEf,iGAAuB;EACrB,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI",
+"sources": ["../sass/paragraph-type-text.scss"],
+"names": [],
+"file": "paragraph-type-text.css"
+}

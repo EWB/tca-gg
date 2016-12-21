@@ -1,0 +1,28 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.paragraph.preview
+    - field.field.paragraph.media.field_display_mode
+    - field.field.paragraph.media.field_media
+    - image.style.thumbnail
+    - paragraphs.paragraphs_type.media
+  module:
+    - media_entity
+id: paragraph.media.preview
+targetEntityType: paragraph
+bundle: media
+mode: preview
+content:
+  field_media:
+    weight: 0
+    label: hidden
+    settings:
+      image_style: thumbnail
+      image_link: ''
+    third_party_settings: {  }
+    type: media_thumbnail
+hidden:
+  created: true
+  field_display_mode: true
+  uid: true

@@ -1,0 +1,7 @@
+name: 'Text Format: Default'
+description: 'Adds a default text format that is a wysiwyg free format that can be used as the default text format on fields to keep the form minimalistic.'
+type: module
+core: 8.x
+dependencies:
+  - filter
+version: 8.x-1.0-beta1

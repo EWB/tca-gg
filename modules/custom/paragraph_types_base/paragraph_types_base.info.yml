@@ -1,0 +1,7 @@
+name: 'Paragraph Types Base'
+type: module
+core: 8.x
+dependencies:
+  - paragraphs
+version: 8.x-1.0-beta1
+package: 'Paragraph Types'

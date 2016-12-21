@@ -1,0 +1,9 @@
+bundle: paragraph_types
+excluded:
+  - core.entity_form_display.paragraph.card.default
+  - core.entity_view_display.paragraph.card.default
+  - core.entity_view_display.paragraph.card.preview
+  - field.field.paragraph.card.field_media
+  - field.field.paragraph.card.field_text
+  - paragraphs.paragraphs_type.card
+required: true

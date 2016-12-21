@@ -1,0 +1,10 @@
+bundle: paragraph_types
+excluded:
+  - core.entity_form_display.paragraph.basic.default
+  - core.entity_view_display.paragraph.basic.default
+  - core.entity_view_display.paragraph.basic.preview
+  - field.field.paragraph.basic.field_text
+  - field.field.paragraph.card.field_text
+  - field.field.paragraph.grid.field_text
+  - paragraphs.paragraphs_type.basic
+required: true

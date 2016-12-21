@@ -1,0 +1,20 @@
+name: 'Breakout Paragraph'
+type: module
+core: 8.x
+dependencies:
+  - color_field
+  - content_moderation
+  - ds
+  - entity_reference_revisions
+  - field
+  - file
+  - image
+  - media_bundles_external_video_bundle
+  - media_bundles_image_bundle
+  - paragraph_types_base
+  - paragraph_types_heading_paragraph
+  - paragraph_types_media_paragraph
+  - paragraph_types_text_paragraph
+  - paragraphs
+version: 8.x-1.0-beta2
+package: 'Paragraph Types'

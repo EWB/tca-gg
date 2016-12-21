@@ -1,0 +1,9 @@
+name: 'Heading Paragraph'
+type: module
+core: 8.x
+dependencies:
+  - content_moderation
+  - field
+  - paragraphs
+version: 8.x-1.0-beta1
+package: 'Paragraph Types'

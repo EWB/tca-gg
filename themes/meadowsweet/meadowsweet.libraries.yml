@@ -1,0 +1,15 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      css/paragraph-type-text.css: {}
+      css/bootstrap-social.css: {}
+      fonts/font-awesome/css/font-awesome.min.css: {}
+
+  js:
+    js/bootstrap.min.js: {}
+    js/owl.carousel.js: {}
+    js/wow.min.js: {}
+    js/SmoothScroll.js: {}
+    js/custom.js: {}
+    js/main.js: {}

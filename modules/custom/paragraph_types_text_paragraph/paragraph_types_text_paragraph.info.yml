@@ -1,0 +1,13 @@
+name: 'Text Paragraph'
+type: module
+core: 8.x
+dependencies:
+  - better_formats
+  - content_moderation
+  - field
+  - media_entity
+  - paragraph_types_base
+  - paragraphs
+  - text
+version: 8.x-1.0-beta1
+package: 'Paragraph Types'
